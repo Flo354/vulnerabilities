@@ -1,4 +1,4 @@
-At least two read endpoints reserved for "admins" are targetable by users having only the "view" role
+On Gatling Enterprise versions below 1.25.0, at least two read endpoints reserved for "admins" are targetable by users having only the "view" role
 - /api/private/teams
 - /api/private/repositories
 
