@@ -1,4 +1,4 @@
-After the logout, the session cookie is still usable to perform requests on the app. The session will never be invalidated otherwise than changing the encryption secret, as it is stateless.
+On Gatling Enterprise versions below 1.25.0, after the logout, the session cookie is still usable to perform requests on the app. The session will never be invalidated otherwise than changing the encryption secret, as it is stateless.
 
 ![image](https://github.com/user-attachments/assets/62edd8dd-9645-464c-9499-38df1223c527)
 
